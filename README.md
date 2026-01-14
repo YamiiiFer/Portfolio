@@ -16,7 +16,7 @@ Estudiante de Programación – Tecnicatura Universitaria en Programación (UTN)
 - Programación 2: https://github.com/YamiiiFer/programacion-2
 
 ## 📄 Currículum
-[Descargar CV](CV_Yamila_Fernandez.pdf)
+
 
 ## 🔗 Contacto
 - LinkedIn: https://www.linkedin.com/in/yamila-fernandez-it/
