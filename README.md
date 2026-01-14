@@ -6,14 +6,17 @@ Estudiante de Programación – Tecnicatura Universitaria en Programación (UTN)
 - Tecnicatura Universitaria en Programación – UTN (en curso)
 
 ## 💻 Tecnologías
-- Java (Programación Orientada a Objetos)
+- Java (POO)
 - Python (fundamentos)
 - MySQL (básico)
 - Git & GitHub
 
 ## 📂 Proyectos académicos
-- Programación 1: https://github.com/YamiiiFer
-- Programación 2: https://github.com/YamiiiFer
+- Programación 1: https://github.com/YamiiiFer/programacion-1
+- Programación 2: https://github.com/YamiiiFer/programacion-2
+
+## 📄 Currículum
+[Descargar CV](CV_Yamila_Fernandez.pdf)
 
 ## 🔗 Contacto
 - LinkedIn: https://www.linkedin.com/in/yamila-fernandez-it/
